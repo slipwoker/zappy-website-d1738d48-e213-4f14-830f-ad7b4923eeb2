@@ -1,0 +1,84 @@
+# חנות הסקאושים ועוד... — Generative Engine Optimization Map
+
+> A ספורט ופנאי business.
+
+---
+
+## Pages
+
+### Home
+https://-d1738d48.zappy5.app
+
+### About
+https://-d1738d48.zappy5.app/about
+
+### Programs
+https://-d1738d48.zappy5.app/programs
+
+### Contact
+https://-d1738d48.zappy5.app/contact
+
+### Products
+https://-d1738d48.zappy5.app/products
+המוצרים שלנו - חנות הסקאושים ועוד...
+
+### Cart
+https://-d1738d48.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-d1738d48.zappy5.app/checkout
+תשלום
+
+### Login
+https://-d1738d48.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-d1738d48.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-d1738d48.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-d1738d48.zappy5.app/product/:slug
+פרטי המוצר - חנות הסקאושים ועוד...
+
+### Category
+https://-d1738d48.zappy5.app/category/:slug
+מוצרים - חנות הסקאושים ועוד...
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d1738d48.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d1738d48.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d1738d48.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חנות הסקאושים ועוד...
+חנות הסקאושים ועוד... is a business in the ספורט ופנאי industry.
+
+## Target Audience
+
+## Industry
+ספורט ופנאי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-d1738d48.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-d1738d48.zappy5.app/robots.txt
